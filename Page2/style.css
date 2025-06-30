@@ -541,6 +541,7 @@ li {
 
     .section2 .inner-bottom .inner-right {
         width: 100%;
+        display: flex
     }
 
     .section2 .inner-bottom .inner-tags {
